@@ -1,0 +1,4 @@
+See file:///E:/AndroidStudioCode/SRI-OCRTestFocusRectFixed0428memoryOptions/SRI-OCRTestFocusRectFixed0425memory/SRI-OCRTestFocusRectFixed/app/build/tmp/linkProcessActivityArmeabiDebugSharedLibrary/output.txt for all output for linkProcessActivityArmeabiDebugSharedLibrary.
+linking libprocessActivity.so successful.
+
+Finished linkProcessActivityArmeabiDebugSharedLibrary, see full log file:///E:/AndroidStudioCode/SRI-OCRTestFocusRectFixed0428memoryOptions/SRI-OCRTestFocusRectFixed0425memory/SRI-OCRTestFocusRectFixed/app/build/tmp/linkProcessActivityArmeabiDebugSharedLibrary/output.txt.

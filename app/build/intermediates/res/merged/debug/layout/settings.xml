@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroud"
+    android:orientation="vertical" >
+      
+    <Button android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:text="旋转90°"
+         android:onClick="margain"
+        />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"        
+        android:text="设置短信 " 
+        android:onClick="save"/>
+      
+       <CheckedTextView 
+           android:id="@+id/checkBtn"
+            android:layout_width="fill_parent"
+        android:layout_height="wrap_content"  
+        android:focusable="true"
+        android:clickable="true"
+        android:checkMark="?android:attr/listChoiceIndicatorMultiple"
+        android:onClick="checkClick"        
+        android:text="仅识别手机号码" />
+
+</LinearLayout>

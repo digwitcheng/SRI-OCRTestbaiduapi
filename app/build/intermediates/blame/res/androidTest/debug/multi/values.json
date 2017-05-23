@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioCode\\SRI-OCRTestFocusRectFixed0428memoryOptions\\SRI-OCRTestFocusRectFixed0425memory\\SRI-OCRTestFocusRectFixed\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\hxc\\.android\\build-cache\\8f62ec1605d42e4222e944829112618a1dad0764\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

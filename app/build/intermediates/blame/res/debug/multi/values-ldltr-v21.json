@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\AndroidStudioCode\\SRI-OCRTestFocusRectFixed0428memoryOptions\\SRI-OCRTestFocusRectFixed0425memory\\SRI-OCRTestFocusRectFixed\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "C:\\Users\\hxc\\.android\\build-cache\\2bae090405dcbdee4f4849b3661024300eae6f9e\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+See file:///E:/AndroidStudioCode/SRI-OCRTestFocusRectFixed0428memoryOptions/SRI-OCRTestFocusRectFixed0425memory/SRI-OCRTestFocusRectFixed/app/build/tmp/linkProcessActivityMipsDebugSharedLibrary/output.txt for all output for linkProcessActivityMipsDebugSharedLibrary.
+linking libprocessActivity.so successful.
+
+Finished linkProcessActivityMipsDebugSharedLibrary, see full log file:///E:/AndroidStudioCode/SRI-OCRTestFocusRectFixed0428memoryOptions/SRI-OCRTestFocusRectFixed0425memory/SRI-OCRTestFocusRectFixed/app/build/tmp/linkProcessActivityMipsDebugSharedLibrary/output.txt.

@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hxc\.android\build-cache\31ffd656963aa3d00108b570509f5e2562564c72\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hxc\.android\build-cache\6f43e9ce127ff3d8d43ca37bb0651b561d928916\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hxc\.android\build-cache\d1354b6191e54751d26cf2425128e87226b036fa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hxc\.android\build-cache\0f0cc4d78dcf0c54e01a5a08ba5b4d627e3cd491\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hxc\.android\build-cache\ee37f948783e4515d02e3087471887b9fbb624b3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\009f0efcaafacb6315a9b2c1cb1fa4bb3f0fee37\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\e3eec202e50efaa49b3c5dce7f49e7ec088348d5\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hxc\.android\build-cache\5b82714f84f3f570696e52cd89536bea1452f3a0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hxc\.android\build-cache\5bf5bba991d44b55eb6c46a4d7fb489193c265e6\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:11:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.SEND_SMS
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:15:22-66
+uses-feature#android.hardware.camera
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:16:5-59
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:16:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:17:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:18:22-66
+application
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:20:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hxc\.android\build-cache\31ffd656963aa3d00108b570509f5e2562564c72\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hxc\.android\build-cache\6f43e9ce127ff3d8d43ca37bb0651b561d928916\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hxc\.android\build-cache\d1354b6191e54751d26cf2425128e87226b036fa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hxc\.android\build-cache\0f0cc4d78dcf0c54e01a5a08ba5b4d627e3cd491\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hxc\.android\build-cache\ee37f948783e4515d02e3087471887b9fbb624b3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\009f0efcaafacb6315a9b2c1cb1fa4bb3f0fee37\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\e3eec202e50efaa49b3c5dce7f49e7ec088348d5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hxc\.android\build-cache\5b82714f84f3f570696e52cd89536bea1452f3a0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hxc\.android\build-cache\5bf5bba991d44b55eb6c46a4d7fb489193c265e6\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:23:9-41
+	android:allowBackup
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:22:9-38
+	android:theme
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:24:9-39
+activity#cn.hxc.imgrecognition.MainActivity
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:26:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:32:27-74
+activity#cn.hxc.imgrecognition.set
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:35:9-90
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:35:60-78
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:35:19-59
+activity#cn.hxc.imgrecognition.saveSmg
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:36:9-96
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:36:64-84
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:36:19-63
+activity#cn.hxc.imgrecognition.processActivity
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:37:9-104
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:37:72-92
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:37:19-71
+activity#cn.hxc.imgrecognition.takePhoto
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:38:9-47:20
+	android:label
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:38:66-91
+	android:launchMode
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:40:16-46
+	android:configChanges
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:39:17-137
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:38:19-65
+intent-filter#android.intent.action.SRICamera+android.intent.category.DEFAULT
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:42:13-45:29
+action#android.intent.action.SRICamera
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:43:21-67
+category#android.intent.category.DEFAULT
+ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:44:13-71
+	android:name
+		ADDED from E:\AndroidStudioCode\SRI-OCRTestFocusRectFixed0428memoryOptions\SRI-OCRTestFocusRectFixed0425memory\SRI-OCRTestFocusRectFixed\app\src\main\AndroidManifest.xml:44:23-69
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hxc\.android\build-cache\31ffd656963aa3d00108b570509f5e2562564c72\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hxc\.android\build-cache\6f43e9ce127ff3d8d43ca37bb0651b561d928916\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hxc\.android\build-cache\d1354b6191e54751d26cf2425128e87226b036fa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hxc\.android\build-cache\0f0cc4d78dcf0c54e01a5a08ba5b4d627e3cd491\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hxc\.android\build-cache\ee37f948783e4515d02e3087471887b9fbb624b3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\009f0efcaafacb6315a9b2c1cb1fa4bb3f0fee37\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\hxc\.android\build-cache\e3eec202e50efaa49b3c5dce7f49e7ec088348d5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hxc\.android\build-cache\5b82714f84f3f570696e52cd89536bea1452f3a0\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\hxc\.android\build-cache\2bae090405dcbdee4f4849b3661024300eae6f9e\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/backgroud">
+
+    <EditText
+        android:id="@+id/content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:enabled="true"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:maxLines="10"
+        android:minLines="8"        
+        android:scrollbars="vertical" 
+        android:hint="示例：【韵达快递】请速往菜鸟驿站北门向西30米报亭领取您的包裹，时间：8:30-17:00，寄取件电话：182XXXXXXX,您的快递货号是："/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:text="保存 " 
+        android:onClick="save"/>
+
+</LinearLayout>
